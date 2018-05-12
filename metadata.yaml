@@ -1,0 +1,36 @@
+_repo: The-Lay-Man-s-Sermon-upon-the-Late-StormHeld-forth-at-an-Honest-Coffee-House-Conventicle_36694
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - John, Gabriel
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2011-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36694'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Nahum I, 3 -- Sermons -- Early works to 1800'
+- !lcsh 'Storms -- Great Britain -- Early works to 1800'
+- !lcsh 'Sermons'
+- !lcc 'BV'
+title: 'The Lay-Man''s Sermon upon the Late Storm
+
+  Held forth at an Honest Coffee-House-Conventicle'
+url: http://www.gutenberg.org/ebooks/36694
